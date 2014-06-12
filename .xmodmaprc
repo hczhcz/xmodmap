@@ -1,0 +1,87 @@
+!!!!!!!! For HHKB
+
+!!!! Line 1
+
+keycode   9 = Escape asciitilde grave XF86PowerOff
+
+keycode  10 = 1 exclam F1 F1 
+keycode  11 = 2 at F2 F2 
+keycode  12 = 3 numbersign F3 F3 
+keycode  13 = 4 dollar F4 F4 
+keycode  14 = 5 percent F5 F5 
+keycode  15 = 6 asciicircum F6 F6 
+keycode  16 = 7 ampersand F7 F7 
+keycode  17 = 8 asterisk F8 F8 
+keycode  18 = 9 parenleft F9 F9
+keycode  19 = 0 parenright F10 F10
+keycode  20 = minus underscore F11 F11
+keycode  21 = equal plus F12 F12
+
+keycode  51 = backslash bar Insert Insert
+keycode  49 = grave asciitilde Delete Delete
+
+!!!! Line 2
+
+!keycode  23 = Tab ISO_Left_Tab Caps_Lock Num_Lock
+
+keycode  24 = q Q Home Pointer_Button1
+keycode  25 = w W Up Pointer_Up
+keycode  26 = e E End Pointer_Button3
+keycode  27 = r R Prior Prior
+!keycode  28 = t T XF86Explorer XF86Explorer
+!keycode  29 = y Y y Y
+!keycode  30 = u U u U
+keycode  31 = i I Print Sys_Req
+keycode  32 = o O Scroll_Lock Scroll_Lock
+keycode  33 = p P Pause Break
+keycode  34 = bracketleft braceleft Up Up
+!keycode  35 = bracketright braceright bracketright braceright
+
+keycode  22 = BackSpace BackSpace Delete Delete
+
+!!!! Line 3
+
+!keycode  37 = Control_L NoSymbol Control_L
+
+keycode  38 = a A Left Pointer_Left
+keycode  39 = s S Down Pointer_Down
+keycode  40 = d D Right Pointer_Right
+keycode  41 = f F Next Next
+!keycode  42 = g G g G
+keycode  43 = h H asterisk asterisk
+keycode  44 = j J slash slash
+keycode  45 = k K Home Home
+keycode  46 = l L Prior Prior
+keycode  47 = semicolon colon Left Left
+keycode  48 = apostrophe quotedbl Right Right
+
+keycode  36 = Return Return Linefeed Linefeed
+
+!!!! Line 4
+
+!keycode  50 = Shift_L Shift_Lock Shift_L Shift_Lock
+
+!keycode  52 = z Z Prev_Virtual_Screen Prev_Virtual_Screen
+!keycode  53 = x X Next_Virtual_Screen Next_Virtual_Screen
+!keycode  54 = c C c C
+!keycode  55 = v V v V
+!keycode  56 = b B b B
+keycode  57 = n N plus plus
+keycode  58 = m M minus minus
+keycode  59 = comma less End End
+keycode  60 = period greater Next Next
+keycode  61 = slash question Down Down
+
+!keycode  62 = Shift_R Shift_Lock Shift_R Shift_Lock
+
+!!!! Line 5
+
+keycode  64 = Alt_L Meta_L Alt_L Meta_L
+keycode 133 = Mode_switch Super_L
+!keycode  65 = space space Super_L Super_L
+keycode 134 = Control_R Super_R Control_R Super_R
+keycode 108 = Alt_R Meta_R Alt_R Meta_R
+
+remove control = Control_R
+remove mod4 = Control_R
+add control = Control_R
