@@ -2,7 +2,7 @@
 
 !!!! Line 1
 
-keycode   9 = Escape asciitilde grave XF86PowerOff
+keycode   9 = Escape Escape grave asciitilde
 
 keycode  10 = 1 exclam F1 F1 
 keycode  11 = 2 at F2 F2 
@@ -29,8 +29,8 @@ keycode  25 = w W Up Pointer_Up
 keycode  26 = e E End Pointer_Button3
 keycode  27 = r R Prior Prior
 !keycode  28 = t T XF86Explorer XF86Explorer
-!keycode  29 = y Y y Y
-!keycode  30 = u U u U
+!keycode  29 = y Y XF86KbdBrightnessDown XF86KbdBrightnessDown
+!keycode  30 = u U XF86KbdBrightnessUp XF86KbdBrightnessUp
 keycode  31 = i I Print Sys_Req
 keycode  32 = o O Scroll_Lock Scroll_Lock
 keycode  33 = p P Pause Break
