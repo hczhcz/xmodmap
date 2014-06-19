@@ -82,6 +82,20 @@ keycode 133 = Mode_switch Super_L
 keycode 134 = Control_R Super_R Control_R Super_R
 keycode 108 = Alt_R Meta_R Alt_R Meta_R
 
-remove control = Control_R
-remove mod4 = Control_R
-add control = Control_R
+clear shift
+clear lock
+clear control
+clear mod1
+clear mod2
+clear mod3
+clear mod4
+clear mod5
+
+add shift = Shift_L Shift_R
+add lock = Caps_Lock
+add control = Control_L Control_R
+add mod1 = Alt_L Alt_R Meta_L Meta_R
+add mod2 = Num_Lock
+!add mod3 = ???
+add mod4 = Escape
+!add mod5 = Mode_switch
